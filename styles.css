@@ -1,0 +1,40 @@
+body{background-color: #000000;}
+header{
+    max-width: auto;
+    height: 80px ;
+    background-color: #000000;
+    padding: auto;
+
+}   
+.btn{text-align: right;}
+
+.container-fluid p-5 bg-primary text-white text-center {
+    max-width: 1366px;
+    height: auto; }
+
+h1{font-family: "Montserrat", sans-serif;
+font-size: large;}
+h3{font-family:"Montserrat", sans-serif;}
+
+.contenedor-filas {
+    background-color: #000000;
+    max-width: auto;
+height:auto;}
+    
+.col-sm-4 {
+    width: 100%;
+    height: auto;
+}
+
+.custom-height
+{ height: 240px;
+margin-bottom: 0%;}
+
+
+ul{font-family: "Montserrat", sans-serif;
+list-style-type: none; 
+    padding: 0; 
+    display: inline; 
+    margin-right: 10px;  }
+
+  
